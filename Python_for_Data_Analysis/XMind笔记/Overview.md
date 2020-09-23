@@ -1,3 +1,3 @@
 # Overview
 
-![cover_](https://github.com/Yuxin19/Data-Book-Exercise/blob/master/admin/pexels-kaboompics-com-5946.jpg)
+![cover_](https://github.com/DataJoyYo/Data-Book-Exercise/blob/master/admin/Cha3_Python%20for%20data%20analysis.png)
