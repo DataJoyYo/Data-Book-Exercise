@@ -1,3 +1,3 @@
 # Overview
 
-![cover_](https://github.com/DataJoyYo/Data-Book-Exercise/blob/master/admin/Cha3_Python%20for%20data%20analysis.png)
+![cover_](https://github.com/DataJoyYo/Data-Book-Exercise/blob/master/admin/Python%20for%20Data%20Analysis.png)
